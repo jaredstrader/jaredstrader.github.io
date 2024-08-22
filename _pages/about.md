@@ -36,7 +36,7 @@ I was a Postdoctoral Associate at MIT, from 2021-2023. In 2021, I received a Ph.
 **[01/2023]** Excited to server as Associate Editor for [IROS 2023](https://ieee-iros.org/)!
 
 ## Fun Facts
-I marched snare with Drum Corps International (DCI) groups Southwind 2007, Spirit of Atlanta 2008-2009, and Phantom Regiment 2011 (as center snare from 2009-2011). Many thanks to the members and staff especially [Joe Hobbs](https://www.innovativepercussion.com/artists/joe_hobbs) and [Shane Gwaltney](https://www.innovativepercussion.com/artists/shane_gwaltney)!
+I marched snare with Drum Corps International (DCI) groups Southwind 2007, Spirit of Atlanta 2008-2010, and Phantom Regiment 2011 (as center snare from 2009-2011). Many thanks to the members and staff especially [Joe Hobbs](https://www.innovativepercussion.com/artists/joe_hobbs) and [Shane Gwaltney](https://www.innovativepercussion.com/artists/shane_gwaltney)!
 
 ## Contact
 
