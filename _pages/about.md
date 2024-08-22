@@ -15,8 +15,8 @@ I am a Research Scientist at the [SPARKlab](https://web.mit.edu/sparklab/) worki
 
 I was a Postdoctoral Associate at MIT, from 2021-2023. 
 In 2021, I received a Ph.D. in Aerospace Engineering with a focus on perception-aware planning for robotic systems from the [Department of Mechanical and Aerospace Engineering](https://mmae.statler.wvu.edu/) at [West Virginia University (WVU)](https://www.wvu.edu/) where I was advised by [Prof. Yu Gu](https://yugu.faculty.wvu.edu/home). 
-During my Ph.D., I was a visiting researcher and affiliate at the [NASA Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/) from 2018-2019 working with [Dr. Kyohei Otsu](https://www-robotics.jpl.nasa.gov/who-we-are/people/kyohei_otsu/) and [Dr. Ali-akbar Agha-mohammadi]().
-From 2014-2016 under the advisement of Prof. Yu Gu, I led the development for perception and planning for the WVU team for NASA's Centennial Sample Return Robot Challenge (SRRC) winning $750,000 for [1st place](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-awards-750k-in-sample-return-robot-challenge-for-autonomous-technology/) in the 2016 challenge. 
+During my Ph.D., I was a visiting researcher and affiliate from 2018-2019 at [NASA's Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/) working with [Dr. Kyohei Otsu](https://www-robotics.jpl.nasa.gov/who-we-are/people/kyohei_otsu/) and [Dr. Ali-akbar Agha-mohammadi]().
+From 2014-2016 under the advisement of Prof. Yu Gu, I led the software development for perception and navigation for the WVU team in NASA's Centennial Sample Return Robot Challenge (SRRC) winning $750,000 for [1st place](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-awards-750k-in-sample-return-robot-challenge-for-autonomous-technology/) in the 2016 challenge. 
 
 ## Recent News
 
@@ -39,7 +39,8 @@ From 2014-2016 under the advisement of Prof. Yu Gu, I led the development for pe
 **[01/2023]** Excited to server as Associate Editor for [IROS 2023](https://ieee-iros.org/)!
 
 ## Fun Facts
-I marched snare with Drum Corps International (DCI) groups Southwind 2007, Spirit of Atlanta 2008-2010, and Phantom Regiment 2011 (as center snare from 2009-2011). Many thanks to the members and staff especially [Joe Hobbs](https://www.innovativepercussion.com/artists/joe_hobbs) and [Shane Gwaltney](https://www.innovativepercussion.com/artists/shane_gwaltney)!
+I marched snare with Drum Corps International (DCI) groups Southwind 2007, Spirit of Atlanta 2008-2010, and Phantom Regiment 2011 (as center snare from 2009-2011). 
+<!-- Many thanks to the members and staff especially [Joe Hobbs](https://www.innovativepercussion.com/artists/joe_hobbs) and [Shane Gwaltney](https://www.innovativepercussion.com/artists/shane_gwaltney)! -->
 
 ## Contact
 
