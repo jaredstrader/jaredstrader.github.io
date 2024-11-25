@@ -16,13 +16,18 @@ I am a Research Scientist at the [SPARKlab](https://web.mit.edu/sparklab/) worki
 I was a Postdoctoral Associate at MIT, from 2021-2023. 
 In 2021, I received a Ph.D. in Aerospace Engineering with a focus on perception-aware planning for robotic systems from the [Department of Mechanical and Aerospace Engineering](https://mmae.statler.wvu.edu/) at [West Virginia University (WVU)](https://www.wvu.edu/) where I was advised by [Prof. Yu Gu](https://yugu.faculty.wvu.edu/home). 
 During my Ph.D., I was a visiting researcher and affiliate from 2018-2019 at [NASA's Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/) working with [Dr. Kyohei Otsu](https://www-robotics.jpl.nasa.gov/who-we-are/people/kyohei_otsu/) and [Dr. Ali-akbar Agha-mohammadi]().
-From 2014-2016 under the advisement of Prof. Yu Gu, I led the software development for perception and navigation for the WVU team in NASA's Centennial Sample Return Robot Challenge (SRRC) winning $750,000 for [1st place](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-awards-750k-in-sample-return-robot-challenge-for-autonomous-technology/) in the 2016 challenge. 
+From 2014-2016 under the advisement of Prof. Yu Gu, I led the software development for perception and navigation for the WVU team in NASA's Centennial Sample Return Robot Challenge (SRRC) winning $800,000 for 1st place in the [2015](https://www.nasa.gov/news-release/nasa-u-s-senate-welcome-robot-challenge-winners-to-washington/) and [2016](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-awards-750k-in-sample-return-robot-challenge-for-autonomous-technology/) challenges. 
 
 ## Recent News
+**[10/2024]** I am excited serve as session chair for "Alternative Technologies for GNSS-denied Environments -- Optical Approaches" at [ION GNSS+ 2025](https://www.ion.org/gnss/)!
 
-**[7/2024]** Presenting at [ICRA@40](https://icra40.ieee.org/): "Aggressive Aerial Grasping using a Soft Drone with Onboard Perception" and "Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled Spatial Ontologies"
+**[09/2024]** I am excited to contribute to [RSS 2025](https://roboticsconference.org/) as Website Chair!
 
-**[07/2024]** Presenting at [NeSy24](https://sites.google.com/view/nesy2024): "Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled Spatial Ontologies"
+**[09/2024]** Guest lecturer for [VNAV: Visual Navigation for Autonomous Vehicles](https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/)
+
+**[07/2024]** We are presenting at [ICRA@40](https://icra40.ieee.org/): "Aggressive Aerial Grasping using a Soft Drone with Onboard Perception" and "Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled Spatial Ontologies"
+
+**[07/2024]** We are presenting at [NeSy24](https://sites.google.com/view/nesy2024): "Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled Spatial Ontologies"
 
 **[05/2024]** Accepted at [npj Robotics](https://www.nature.com/npjrobot/) in the Nature Portfolio: "Aggressive Aerial Grasping using a Soft Drone with Onboard Perception" ([arxiv](https://arxiv.org/abs/2308.06351))
 
@@ -31,6 +36,8 @@ From 2014-2016 under the advisement of Prof. Yu Gu, I led the software developme
 **[01/2024]**: Accepted at International Journal of Robotics Research (IJRR): "Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems." ([arxiv](https://arxiv.org/abs/2305.07154), [youtube](https://youtu.be/AEaBq2-FeY0), [github](https://github.com/MIT-SPARK/Hydra))
 
 **[01/2024]** Excited to server as Associate Editor for [IROS 2024](https://iros2024-abudhabi.org/)!
+
+**[09/2023]** Guest lecturer for [VNAV: Visual Navigation for Autonomous Vehicles](https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/)
 
 **[05/2023]** Presenting at [RSS Workshop on Robot Representations for Scene Understanding](https://mit-spark.github.io/robotRepresentations-RSS2023/): "Informing 3D Scene Graph Generation with Common-Sense Spatial Knowledge"
 
