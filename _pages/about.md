@@ -23,7 +23,7 @@ From 2014-2016 under the advisement of Prof. Yu Gu, I led the software developme
 
 **[10/2024]** I am excited serve as session chair for "Alternative Technologies for GNSS-denied Environments -- Optical Approaches" at [ION GNSS+ 2025](https://www.ion.org/gnss/)!
 
-**[10/2024]** I am excited serve as session chair for "Alternative Technologies for GNSS-denied Environments -- Optical Approaches" at [ION GNSS+ 2025](https://www.ion.org/gnss/)!
+<!-- **[10/2024]** I am excited serve as session chair for "Alternative Technologies for GNSS-denied Environments -- Optical Approaches" at [ION GNSS+ 2025](https://www.ion.org/gnss/)! -->
 
 **[09/2024]** I am excited to contribute to [RSS 2025](https://roboticsconference.org/) as Website Chair!
 
