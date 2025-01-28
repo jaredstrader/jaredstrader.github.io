@@ -19,9 +19,9 @@ During my Ph.D., I was a visiting researcher and affiliate from 2018-2019 at [NA
 From 2014-2016 under the advisement of Prof. Yu Gu, I led the software development for perception and navigation for the WVU team in NASA's Centennial Sample Return Robot Challenge (SRRC) winning $850,000 for 1st place in the [2015](https://www.nasa.gov/news-release/nasa-u-s-senate-welcome-robot-challenge-winners-to-washington/) and [2016](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-awards-750k-in-sample-return-robot-challenge-for-autonomous-technology/) challenges. 
 
 ## Recent News
-**[01/2025]** Our paper "Belief Roadmaps with Uncertain Landmark Evanescence" was accepted for presentation at ICRA 2025! (arxiv link coming soon)
+**[01/2025]** Our paper "Belief Roadmaps with Uncertain Landmark Evanescence" was accepted for presentation at [ICRA 2025](https://2025.ieee-icra.org/)! (arxiv link coming soon)
 
-**[01/2025]** Excited to server as Associate Editor for [IROS 2025](https://ieee-iros.org/)!
+**[01/2025]** Excited to server as Associate Editor for [IROS 2025](http://www.iros25.org/)!
 
 <!-- **[11/2024]** Our paper "Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems." ([arxiv](https://arxiv.org/abs/2305.07154), [youtube](https://youtu.be/AEaBq2-FeY0), [github](https://github.com/MIT-SPARK/Hydra)) reached top 3 most read paper on IJRR! -->
 
