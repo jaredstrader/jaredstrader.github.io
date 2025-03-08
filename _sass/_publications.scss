@@ -6,16 +6,26 @@
   
   .publication-grid {
     display: flex;
-    align-items: flex-start; /* Forces both columns to start at the same height */
+    align-items: flex-start; /* Ensures the left (label), middle (text), and right (image) columns align at the top */
     gap: 20px;
   }
   
   /* LEFT COLUMN (CATEGORY LABEL) */
-  .publication-label {
-    display: flex;
-    align-items: center; /* Aligns category label with the title */
-    min-width: 150px; /* Ensures a consistent left column width */
+//   .publication-label {
+//     display: flex;
+//     align-items: center; /* Ensures the category label stays aligned with the title */
+//     min-width: 150px; /* Keeps label width consistent */
+//   }
+.pub-label {
+    display: inline-block;
+    padding: 3px 8px; /* Reduce padding to make it smaller */
+    font-size: 12px; /* Make the text slightly smaller */
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+    white-space: nowrap; /* Prevents text wrapping */
   }
+  
   
   /* Category Label Styling */
   .pub-label {
@@ -32,33 +42,44 @@
   .pub-label.manuscripts { background: #007ACC; } /* Blue */
   .pub-label.books { background: #FF4500; } /* Orange */
   
-  /* RIGHT COLUMN (TITLE, AUTHORS, VENUE, BUTTONS) */
+  /* MIDDLE COLUMN (TITLE, AUTHORS, VENUE, BUTTONS) */
   .publication-details {
-    flex: 1; /* Ensures the right column takes up remaining space */
+    flex: 1; /* Allows this column to expand naturally */
     display: flex;
     flex-direction: column;
     justify-content: flex-start; /* Ensures text starts at the top */
   }
   
   .archive__item-title {
-    margin-top: 0px !important; /* Removes unwanted margin that was pushing the title down */
+    margin-top: 0px !important; /* Prevents the title from being pushed down */
     padding-top: 0px !important;
+    text-decoration: none !important;
   }
   
-  /* Author styling */
-  .pub-authors {
+//   /* Author styling */
+//   .pub-authors {
+//     font-size: 14px;
+//     color: #666;
+//     margin-bottom: 4px;
+//   }
+  
+//   /* Venue styling */
+//   .pub-venue {
+//     font-size: 14px;
+//     font-style: italic;
+//     color: #555;
+//     margin-bottom: 8px;
+//   }
+
+/* Reduce spacing between text lines */
+.pub-authors, .pub-venue {
     font-size: 14px;
     color: #666;
-    margin-bottom: 4px;
+    margin-top: 0px !important; /* Remove space above authors */
+    margin-bottom: 0px; /* Reduce margin to tighten spacing */
+    line-height: 1.3; /* Slightly compact line spacing */
   }
   
-  /* Venue styling */
-  .pub-venue {
-    font-size: 14px;
-    font-style: italic;
-    color: #555;
-    margin-bottom: 8px;
-  }
   
   /* BUTTON CONTAINER */
   .pub-buttons {
@@ -81,4 +102,31 @@
   .pub-btn:hover {
     background: #555;
   }
+  
+  /* RIGHT COLUMN (IMAGE) */
+//   .publication-image {
+//     display: flex;
+//     justify-content: center; /* Centers the image within the right column */
+//     align-items: flex-start; /* Aligns the top of the image with the text */
+//     max-width: 150px; /* Ensures the image doesn't take up too much space */
+//   }
+  
+//   .publication-image img {
+//     max-width: 100%;
+//     height: auto;
+//     border-radius: 5px;
+//   }
+
+  .publication-image {
+    display: flex;
+    justify-content: center; /* Centers the image in the right column */
+    align-items: flex-start; /* Aligns image with the text */
+    max-width: 250px; /* Adjust width to match design */
+}
+
+.publication-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px; /* Optional: Adds rounded corners */
+}
   

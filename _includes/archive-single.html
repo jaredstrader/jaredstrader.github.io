@@ -2,20 +2,22 @@
 
 <div class="publication__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
+    
     <div class="publication-grid">
+      
       <!-- Left Column: Category Label -->
       <div class="publication-label">
         {% if post.category %}
-          <span class="pub-label {{ post.category | downcase }}">{{ site.publication_category[post.category].title }}</span>
+        <span class="pub-label {{ post.category | downcase }}">{{ post.abbreviation }}</span>
+          <!-- <span class="pub-label {{ post.category | downcase }}">{{ site.publication_category[post.category].title }}</span>1 -->
         {% endif %}
       </div>
 
-      <!-- Right Column: Paper Details -->
+      <!-- Middle Column: Paper Details -->
       <div class="publication-details">
-        <!-- Title -->
+        <!-- Title (No Link) -->
         <h3 class="archive__item-title" itemprop="headline">
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+          {{ post.title }}
         </h3>
 
         <!-- Authors -->
@@ -25,15 +27,42 @@
         <p class="pub-venue"><i>{{ post.venue }}</i> {{ post.year }}</p>
 
         <!-- Buttons: Only arXiv & Code -->
-        <div class="pub-buttons">
-          {% if post.arxiv %}
-            <a class="pub-btn" href="{{ post.arxiv }}" target="_blank">arXiv</a>
-          {% endif %}
-          {% if post.code %}
-            <a class="pub-btn" href="{{ post.code }}" target="_blank">Code</a>
-          {% endif %}
-        </div>
+        <!-- Buttons: Only display if at least one link is provided -->
+        {% if post.arxiv or post.code or post.doi %}
+          <div class="pub-buttons">
+            {% if post.arxiv and post.arxiv != "" %}
+              <a class="pub-btn" href="{{ post.arxiv }}" target="_blank">arXiv</a>
+            {% endif %}
+            {% if post.code and post.code != "" %}
+              <a class="pub-btn" href="{{ post.code }}" target="_blank">Code</a>
+            {% endif %}
+            {% if post.doi and post.doi != "" %}
+              <a class="pub-btn" href="{{ post.doi }}" target="_blank">DOI</a>
+            {% endif %}
+          </div>
+        {% endif %}
+
       </div>
+
+      <!-- Right Column: Image (if available) -->
+      <!-- {% if post.image %}
+        <div class="publication-image">
+          <img src="{{ post.image }}" alt="Publication image for {{ post.title }}">
+        </div>
+      {% endif %} -->
+
+      <!-- Right Column: Auto-generated Image (if available) -->
+      {% assign image_path = "/assets/images/publications/" | append: post.name | append: ".png" %}
+      {% assign image_full_path = site.url | append: image_path %}
+      
+      <!-- Check if the image actually exists -->
+      {% if image_path and image_path != "/assets/images/publications/.png" %}
+        <div class="publication-image">
+          <img src="{{ image_path }}" alt="Image for {{ post.title }}">
+        </div>
+      {% endif %}
+
+
     </div>
 
   </article>

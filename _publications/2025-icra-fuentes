@@ -1,12 +1,15 @@
 ---
+name: 2025-icra-fuentes
 title: "Belief Roadmaps with Uncertain Landmark Evanescence"
-authors: "E. Fuentes, J. Strader, E. Fahnestock, N. Roy"
-venue: "International Conference on Robotics and Automation (ICRA)"
+authors: "Erick Fuentes, Jared Strader, Ethan Fahnestock, Nicholas Roy"
+venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+abbreviation: "ICRA"
 year: 2025
 category: "conferences"
 pdf: "https://arxiv.org/pdf/2501.17982"
 arxiv: "https://arxiv.org/abs/2501.17982"
 code: "https://bit.ly/BRULE"
+image: ""
 doi: ""
 bibtex: ""
 layout: archive-single
