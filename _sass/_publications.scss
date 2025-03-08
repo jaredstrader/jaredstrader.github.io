@@ -1,0 +1,84 @@
+/* Publications Styling */
+.publication__item {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+  }
+  
+  .publication-grid {
+    display: flex;
+    align-items: flex-start; /* Forces both columns to start at the same height */
+    gap: 20px;
+  }
+  
+  /* LEFT COLUMN (CATEGORY LABEL) */
+  .publication-label {
+    display: flex;
+    align-items: center; /* Aligns category label with the title */
+    min-width: 150px; /* Ensures a consistent left column width */
+  }
+  
+  /* Category Label Styling */
+  .pub-label {
+    display: inline-block;
+    padding: 5px 12px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    white-space: nowrap; /* Prevents text wrapping */
+  }
+  
+  .pub-label.conferences { background: #8A2BE2; } /* Purple */
+  .pub-label.manuscripts { background: #007ACC; } /* Blue */
+  .pub-label.books { background: #FF4500; } /* Orange */
+  
+  /* RIGHT COLUMN (TITLE, AUTHORS, VENUE, BUTTONS) */
+  .publication-details {
+    flex: 1; /* Ensures the right column takes up remaining space */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Ensures text starts at the top */
+  }
+  
+  .archive__item-title {
+    margin-top: 0px !important; /* Removes unwanted margin that was pushing the title down */
+    padding-top: 0px !important;
+  }
+  
+  /* Author styling */
+  .pub-authors {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 4px;
+  }
+  
+  /* Venue styling */
+  .pub-venue {
+    font-size: 14px;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 8px;
+  }
+  
+  /* BUTTON CONTAINER */
+  .pub-buttons {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  /* Button Styling */
+  .pub-btn {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    text-decoration: none;
+    background: #333;
+    color: white;
+    border-radius: 5px;
+  }
+  
+  .pub-btn:hover {
+    background: #555;
+  }
+  
