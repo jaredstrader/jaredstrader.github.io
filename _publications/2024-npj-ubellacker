@@ -1,0 +1,19 @@
+---
+name:
+title: "High-Speed Aerial Grasping using a Soft Drone with Onboard Perception"
+authors: "Samuel Ubellacker, Aaron Ray, James M Bern, Jared Strader, Luca Carlone"
+venue: "npj Robotics"
+abbreviation: "npj"
+year: 2024
+category: "papers"
+pdf: ""
+arxiv: "https://arxiv.org/pdf/2308.06351.pdf"
+code: "https://github.com/MIT-SPARK/Hydra"
+image: ""
+doi: "https://doi.org/10.1038/s44182-024-00012-1"
+bibtex: ""
+layout: archive-single
+status: ""
+highlight: Presented at ICRA@40.
+video: "https://youtu.be/HF4M7TooqfE?si=Za7EsgnjajkjGFzp"
+---

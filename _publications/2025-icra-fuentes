@@ -1,17 +1,19 @@
 ---
-name: 2025-icra-fuentes
+name:
 title: "Belief Roadmaps with Uncertain Landmark Evanescence"
 authors: "Erick Fuentes, Jared Strader, Ethan Fahnestock, Nicholas Roy"
 venue: "IEEE International Conference on Robotics and Automation (ICRA)"
 abbreviation: "ICRA"
-year: 2025
-category: "conferences"
-pdf: "https://arxiv.org/pdf/2501.17982"
+year: 2025 (To Appear)
+category: "papers"
+pdf:
 arxiv: "https://arxiv.org/abs/2501.17982"
-code: "https://bit.ly/BRULE"
+code: "https://github.com/ewfuentes/robot/tree/main/experimental/beacon_sim"
 image: ""
 doi: ""
 bibtex: ""
 layout: archive-single
 status: "Accepted"
+highlight:
+video:
 ---

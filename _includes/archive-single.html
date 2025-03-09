@@ -24,21 +24,29 @@
         <p class="pub-authors">{{ post.authors }}</p>
 
         <!-- Venue & Year -->
-        <p class="pub-venue"><i>{{ post.venue }}</i> {{ post.year }}</p>
+        <p class="pub-venue"><i>{{ post.venue }}</i>, {{ post.year }}</p>
+
+        <!-- Highlight Special Awards -->
+        {% if post.highlight and post.highlight != "" %}
+          <p class="pub-highlight">{{ post.highlight }}</p>
+        {% endif %}
 
         <!-- Buttons: Only arXiv & Code -->
         <!-- Buttons: Only display if at least one link is provided -->
         {% if post.arxiv or post.code or post.doi %}
           <div class="pub-buttons">
+            {% if post.doi and post.doi != "" %}
+              <a class="pub-btn" href="{{ post.doi }}" target="_blank">DOI</a>
+            {% endif %}
             {% if post.arxiv and post.arxiv != "" %}
               <a class="pub-btn" href="{{ post.arxiv }}" target="_blank">arXiv</a>
             {% endif %}
             {% if post.code and post.code != "" %}
               <a class="pub-btn" href="{{ post.code }}" target="_blank">Code</a>
             {% endif %}
-            {% if post.doi and post.doi != "" %}
-              <a class="pub-btn" href="{{ post.doi }}" target="_blank">DOI</a>
-            {% endif %}
+            {% if post.video and post.video != "" %}
+            <a class="pub-btn" href="{{ post.video }}" target="_blank">Video</a>
+          {% endif %}
           </div>
         {% endif %}
 

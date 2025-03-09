@@ -1,0 +1,19 @@
+---
+name:
+title: "Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-Time Systems"
+authors: "Nathan Hughes, Yun Chang, Siyi Hu, Rajat Talak, Rumaia Abdulhai, Jared Strader, Luca Carlone"
+venue: "International Journal of Robotics Research (IJRR)"
+abbreviation: "IJRR"
+year: 2024
+category: "papers"
+pdf: ""
+arxiv: "https://arxiv.org/pdf/2305.07154"
+code: "https://github.com/MIT-SPARK/Hydra"
+image: ""
+doi: "https://doi.org/10.1177/02783649241229725"
+bibtex: ""
+layout: archive-single
+status: ""
+highlight: "One of top 3 most read papers in IJRR over a 6 month period in 2024."
+video:
+---

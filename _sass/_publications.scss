@@ -4,57 +4,67 @@
     padding: 15px 0;
   }
   
-  .publication-grid {
+.publication-grid {
     display: flex;
     align-items: flex-start; /* Ensures the left (label), middle (text), and right (image) columns align at the top */
     gap: 20px;
-  }
+}
   
-  /* LEFT COLUMN (CATEGORY LABEL) */
-//   .publication-label {
-//     display: flex;
-//     align-items: center; /* Ensures the category label stays aligned with the title */
-//     min-width: 150px; /* Keeps label width consistent */
-//   }
+/* LEFT COLUMN (CATEGORY LABEL) */
+// .pub-label {
+//     display: inline-block;
+//     padding: 3px 8px; /* Reduce padding to make it smaller */
+//     font-size: 12px; /* Make the text slightly smaller */
+//     font-weight: bold;
+//     color: white;
+//     border-radius: 4px;
+//     white-space: nowrap; /* Prevents text wrapping */
+// }
+  
+  
+// /* Category Label Styling */
+// .pub-label {
+//     display: inline-block;
+//     padding: 5px 12px;
+//     font-size: 14px;
+//     font-weight: bold;
+//     color: white;
+//     border-radius: 5px;
+//     white-space: nowrap; /* Prevents text wrapping */
+// }
+
+/* Category Label Styling */
 .pub-label {
     display: inline-block;
-    padding: 3px 8px; /* Reduce padding to make it smaller */
-    font-size: 12px; /* Make the text slightly smaller */
-    font-weight: bold;
-    color: white;
-    border-radius: 4px;
-    white-space: nowrap; /* Prevents text wrapping */
-  }
-  
-  
-  /* Category Label Styling */
-  .pub-label {
-    display: inline-block;
-    padding: 5px 12px;
+    padding: 5px 12px; /* Consistent padding */
     font-size: 14px;
     font-weight: bold;
     color: white;
     border-radius: 5px;
     white-space: nowrap; /* Prevents text wrapping */
-  }
+    min-width: 80px; /* Ensures all labels are the same width */
+    text-align: center; /* Centers text */
+}
+
   
-  .pub-label.conferences { background: #8A2BE2; } /* Purple */
-  .pub-label.manuscripts { background: #007ACC; } /* Blue */
-  .pub-label.books { background: #FF4500; } /* Orange */
-  
-  /* MIDDLE COLUMN (TITLE, AUTHORS, VENUE, BUTTONS) */
-  .publication-details {
+.pub-label.conferences { background: #8A2BE2; } /* Purple */
+.pub-label.journals { background: #007ACC; } /* Blue */
+.pub-label.books { background: #FF4500; } /* Orange */
+.pub-label.papers { background: #007ACC; } /* Blue */
+
+/* MIDDLE COLUMN (TITLE, AUTHORS, VENUE, BUTTONS) */
+.publication-details {
     flex: 1; /* Allows this column to expand naturally */
     display: flex;
     flex-direction: column;
     justify-content: flex-start; /* Ensures text starts at the top */
-  }
-  
-  .archive__item-title {
+}
+
+.archive__item-title {
     margin-top: 0px !important; /* Prevents the title from being pushed down */
     padding-top: 0px !important;
     text-decoration: none !important;
-  }
+}
   
 //   /* Author styling */
 //   .pub-authors {
@@ -81,15 +91,15 @@
   }
   
   
-  /* BUTTON CONTAINER */
-  .pub-buttons {
+/* BUTTON CONTAINER */
+.pub-buttons {
     display: flex;
     gap: 10px;
     margin-top: 10px;
-  }
+}
   
   /* Button Styling */
-  .pub-btn {
+.pub-btn {
     display: inline-block;
     padding: 6px 12px;
     font-size: 14px;
@@ -97,13 +107,13 @@
     background: #333;
     color: white;
     border-radius: 5px;
-  }
+}
   
-  .pub-btn:hover {
+.pub-btn:hover {
     background: #555;
-  }
+}
   
-  /* RIGHT COLUMN (IMAGE) */
+/* RIGHT COLUMN (IMAGE) */
 //   .publication-image {
 //     display: flex;
 //     justify-content: center; /* Centers the image within the right column */
@@ -117,7 +127,7 @@
 //     border-radius: 5px;
 //   }
 
-  .publication-image {
+.publication-image {
     display: flex;
     justify-content: center; /* Centers the image in the right column */
     align-items: flex-start; /* Aligns image with the text */
@@ -130,3 +140,10 @@
     border-radius: 5px; /* Optional: Adds rounded corners */
 }
   
+.pub-highlight {
+    font-size: 14px;
+    color: #D40000;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
