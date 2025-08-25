@@ -1,0 +1,19 @@
+---
+name:
+title: "Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs"
+authors: "Jared Strader, Aaron Ray, Jacob Arkin, Mason B. Peterson, Yun Chang, Nathan Hughes, Christopher Bradley, Yi Xuan Jia, Carlos Nieto-Granda, Rajat Talak, Chuchu Fan, Luca Carlone, Jonathan P. How, Nicholas Roy"
+venue: "International Symposium on Experimental Robotics"
+abbreviation: "ISER"
+year: 2025 (To Appear)
+category: "papers"
+pdf:
+arxiv: "https://arxiv.org/abs/2506.07454"
+code: ""
+image: ""
+doi: ""
+bibtex: ""
+layout: archive-single
+status: "Accepted"
+highlight:
+video:
+---

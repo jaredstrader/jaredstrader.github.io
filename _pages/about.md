@@ -8,17 +8,19 @@ redirect_from:
 ---
 
 ## About Me
-
-I am a Research Scientist at the [SPARKlab](https://web.mit.edu/sparklab/) working with [Prof. Luca Carlone](https://lucacarlone.mit.edu/) in the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/).
+I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://www.oakland.edu/cse/) at [Oakland University](https://www.oakland.edu/). My research lies in the intersection of perception, decision making, and scene understanding for robotic systems.
+<!-- I am a Research Scientist at the [SPARKlab](https://web.mit.edu/sparklab/) working with [Prof. Luca Carlone](https://lucacarlone.mit.edu/) in the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/). -->
 
 <!-- My main research interests lie in the intersection of perception and decision making for robotic systems with a focus on passive and active perception in unstructured and perceptually degraded environments for 3D scene understanding. -->
 
-I was a Postdoctoral Associate at MIT, from 2021-2023. 
-In 2021, I received a Ph.D. in Aerospace Engineering with a focus on perception-aware planning for robotic systems from the [Department of Mechanical and Aerospace Engineering](https://mmae.statler.wvu.edu/) at [West Virginia University (WVU)](https://www.wvu.edu/) where I was advised by [Prof. Yu Gu](https://yugu.faculty.wvu.edu/home). 
-During my Ph.D., I was a visiting researcher and affiliate from 2018-2019 at [NASA's Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/) working with [Dr. Kyohei Otsu](https://www-robotics.jpl.nasa.gov/who-we-are/people/kyohei_otsu/) and [Dr. Ali-akbar Agha-mohammadi]().
+<!-- I was a Postdoctoral Associate at MIT, from 2021-2023.  -->
+I was previously a Research Scientist from 2023-2025 and and Postdoctoral Associate from 2021-2023 in the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) where I was fortunate to work with [Prof. Luca Carlone](https://lucacarlone.mit.edu/) in the [SPARKlab](https://web.mit.edu/sparklab/) .
+In 2021, I received a Ph.D. in Aerospace Engineering with a focus on perception-aware planning for robotic systems from the [Department of Mechanical and Aerospace Engineering](https://mmae.statler.wvu.edu/) at [West Virginia University (WVU)](https://www.wvu.edu/) where I was advised by [Prof. Yu Gu](https://yugu.faculty.wvu.edu/home), and I was a visiting researcher and affiliate from 2018-2019 at [NASA's Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/) working with [Dr. Kyohei Otsu](https://www-robotics.jpl.nasa.gov/who-we-are/people/kyohei_otsu/) and [Dr. Ali-akbar Agha-mohammadi]().
 From 2014-2016 under the advisement of Prof. Yu Gu, I led the software development for perception and navigation for the WVU team in NASA's Centennial Sample Return Robot Challenge (SRRC) winning $850,000 for 1st place in the [2015](https://www.nasa.gov/news-release/nasa-u-s-senate-welcome-robot-challenge-winners-to-washington/) and [2016](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-awards-750k-in-sample-return-robot-challenge-for-autonomous-technology/) challenges. 
 
 ## Recent News
+**[05/2025]** Our paper "Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs" was accepted for presentation at [ISER 2025](https://iser2025.org/)! ([arxiv](https://arxiv.org/abs/2506.07454), [video](https://youtu.be/8xbGGOLfLAY))
+
 **[01/2025]** Our paper "Belief Roadmaps with Uncertain Landmark Evanescence" was accepted for presentation at [ICRA 2025](https://2025.ieee-icra.org/)! ([arxiv](https://arxiv.org/abs/2501.17982))
 
 **[01/2025]** Excited to server as Associate Editor for [IROS 2025](http://www.iros25.org/)!
@@ -29,7 +31,7 @@ From 2014-2016 under the advisement of Prof. Yu Gu, I led the software developme
 
 <!-- **[10/2024]** I am excited serve as session chair for "Alternative Technologies for GNSS-denied Environments -- Optical Approaches" at [ION GNSS+ 2025](https://www.ion.org/gnss/)! -->
 
-**[09/2024]** I am excited to contribute to [RSS 2025](https://roboticsconference.org/) as Website Chair!
+**[09/2024]** I am excited to contribute to [RSS 2025](https://roboticsconference.org/) as Website Chair and Publication Chair!
 
 **[09/2024]** Guest lecturer for [VNAV: Visual Navigation for Autonomous Vehicles](https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/)
 
