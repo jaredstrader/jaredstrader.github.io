@@ -24,9 +24,9 @@ author:
   avatar           : "headshot_linkedin.jpeg"
   name             : "Jared Strader"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist, MIT"
-  # location         : ""
-  # employer         : ""
+  bio              : "Assistant Professor"
+  location         : "Rochester, MI"
+  employer         : "Oakland University"
   uri              : # URL
   email            : "jstrader@mit.edu" 
 
