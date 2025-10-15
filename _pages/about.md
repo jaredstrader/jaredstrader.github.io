@@ -12,8 +12,7 @@ redirect_from:
 
 **How to contact me:** email your CV, links (code/papers/videos), and a brief description of your research interests.
 
-**Undergraduates at Oakland University:** I am hiring current undergraduates who are interested in continuing at Oakland University for an MS and/or PhD. If that’s you, please reach out.
-
+**Undergraduates at Oakland University:** I am hiring current undergraduates who are interested in continuing at Oakland University for an MS and/or PhD. If that’s you, please reach out. You can also stop by my office in EC 334.
 
 
 ## About Me
