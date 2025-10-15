@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+## Prospective Students
+**Prospective students:** I’m actively seeking highly motivated and talented **PhD** students. If you are excited about the following topics, let’s talk: passive/active robotic perception, scene understanding/scene completion, and neuro-symbolic reasoning for robotic systems.
+
+**How to contact me:** email your CV, links (code/papers/videos), and a brief description of your research interests.
+
+**Undergraduates at Oakland University:** I am hiring current undergraduates who are interested in continuing at Oakland University for an MS and/or PhD. If that’s you, please reach out.
+
+
+
 ## About Me
 I am an Assistant Professor in the [Department of Electrical and Computer Engineering](https://www.oakland.edu/cse/) at [Oakland University](https://www.oakland.edu/). My research lies in the intersection of perception, decision making, and scene understanding for robotic systems.
 <!-- I am a Research Scientist at the [SPARKlab](https://web.mit.edu/sparklab/) working with [Prof. Luca Carlone](https://lucacarlone.mit.edu/) in the [Department of Aeronautics and Astronautics](https://aeroastro.mit.edu/) at [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/). -->
