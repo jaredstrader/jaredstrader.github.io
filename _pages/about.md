@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ## Prospective Students
-**Prospective students:** I’m actively seeking highly motivated and talented **PhD** students. If you are excited about the following topics, let’s talk: passive/active robotic perception, scene understanding/scene completion, and neuro-symbolic reasoning for robotic systems.
+**Prospective students:** I’m actively seeking highly motivated and talented **PhD** students excited about any of the following topics: passive/active robotic perception, scene understanding/scene completion, and neuro-symbolic reasoning for robotic systems.
 
 **How to contact me:** email your CV, links (code/papers/videos), and a brief description of your research interests.
 
-**Undergraduates at Oakland University:** I am hiring current undergraduates who are interested in continuing at Oakland University for an MS and/or PhD. If that’s you, please reach out. You can also stop by my office in EC 334.
+**Undergraduates at Oakland University:** I am hiring current undergraduates who are interested in continuing at Oakland University for an MS and/or PhD. If that’s you, please reach out. You are welcome to stop by my office in EC 334.
 
 
 ## About Me
