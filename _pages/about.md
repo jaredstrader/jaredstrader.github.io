@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Prospective Students
-**Prospective students:** I’m actively seeking highly motivated and talented **PhD** students excited about any of the following topics in robotics: passive/active robotic perception, scene understanding, planning under uncertainty, and neuro-symbolic reasoning in perception.
+**Prospective students:** I’m actively seeking highly motivated and talented **PhD** students excited about any of the following topics in robotics: passive/active perception, scene understanding, planning under uncertainty, and neuro-symbolic reasoning for perception.
 
 **How to contact me:** email your CV, links (code/papers/videos), and a brief description of your research interests.
 
