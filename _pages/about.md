@@ -49,7 +49,7 @@ From 2014-2016 under the advisement of Prof. Yu Gu, I led the software developme
 
 **[09/2024]** I am excited to contribute to [RSS 2025](https://roboticsconference.org/) as Website Chair and Publication Chair!
 
-**[09/2024]** Guest lecturer for [VNAV: Visual Navigation for Autonomous Vehicles] (https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/) at MIT.
+**[09/2024]** Guest lecturer for [VNAV: Visual Navigation for Autonomous Vehicles](https://ocw.mit.edu/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/) at MIT.
 
 **[07/2024]** We are presenting at [ICRA@40](https://icra40.ieee.org/): "Aggressive Aerial Grasping using a Soft Drone with Onboard Perception" and "Indoor and Outdoor 3D Scene Graph Generation via Language-Enabled Spatial Ontologies"
 
