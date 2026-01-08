@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Aerospace Engineering, West Virginia University, 2021
+* M.S. in Mechanical Engineering, West Virginia University, 2016
+* B.S. in Mechanical Engineering, West Virginia University, 2014
+* B.S. in Mathematics, Evangel University, 2012
 
-Work experience
+Academic Appointments
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -31,21 +32,6 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
