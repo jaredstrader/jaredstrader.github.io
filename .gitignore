@@ -15,3 +15,6 @@ package-lock.json
 .bundle
 .ruby-version
 vendor
+
+# macOS ignores
+.DS_Store
