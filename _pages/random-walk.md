@@ -4,6 +4,10 @@ title: "Random Walk for IMUs"
 author_profile: true
 ---
 
+As an undergraduate, I was working on a project coding a Kalman Filter for GPS/INS for navigation of UAVs. I remember asking colleagues if adding multiple IMUs and averaging them together would reduce the error in position and heading, and it seemed it was common knowledge that the error in heading would be reduced by $$N$$ and the error in position would be reduced by $$\sqrt{N}$$ where $$N$$ is the total number of IMUs being averaged together. However, this was not obvious to me, so I spent a bit of time searching google, and I could not find an answer with the steps showing this is the case. I recently found my notes from the time, and I am sharing here in case anyone may come across this and find it useful.
+
+### Error Reduction (averaging)
+
 A sequence of IMU measurements is disturbed by a white noise sequence (uncorrelated random variables with zero mean and finite variance) with some bias. If we are integrating the IMUs to determine position and heading, we should understand the way the noise propagates to these.
 If we have multiple IMU and average the measurements, we expect the error be reduced by some amount. To determine the expected reduction in error from averaging multiple IMUs, we can look at how the position and heading is affected by this noise. For this simple analysis, we will assume the position and orientation of each IMU are the same.
 
