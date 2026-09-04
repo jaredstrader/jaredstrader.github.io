@@ -8,11 +8,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Calendar"
-    url: /calendar/
-
   - title: "Notes"
     url: /notes/
+
+  - title: "Calendar"
+    url: /calendar/
 
   # - title: "Talks"
   #   url: /talks/    

@@ -4,6 +4,19 @@ title: "Active and Passive Rotations"
 author_profile: true
 ---
 
+When learning transformations as an undegraduate student, I remember being confused if a given rotation $$R$$ is meant to rotate a point (e.g., by rotating the coordinate vector representing the point) or rotate the coordinate frame that the point is represented in.
+For example, imagine a clock where you can rotate the clock separately from the hands of the clock:
+
+<div style="margin-left: 2em;">
+
+<p>(i) You can think of rotating a point (i.e., coordinate vector) as rotating one of the hands on the clock without moving the base of the clock (e.g., if the hand is at 12:00, a +90 degree rotation of the hand will place the hand on 9:00).</p>
+
+<p>(ii) You can think of rotating the coordinate frame as rotating the base of the clock without moving the hands of the clock (e.g., if the hand is at 12:00, a +90 degree rotation of the base of the clock will place the hand on 3:00).</p>
+
+</div>
+
+The main point is that these two interpretations correspond to inverse rotations: rotating a point by an angle $$\theta$$ is equivalent to leaving the point fixed and rotating the coordinate frame by $$-\theta$$.
+
 **Passive Rotation.** We can talk about rotations in the context of representing points, vectors, and objects in different coordinate frames.
 The transformation between these coordinate frames are called *passive transformations*.
 In other words, if we are given the coordinates of a point $$\mathbf{p}$$ in reference frame $$A$$ denoted $${}^A \mathbf{p}$$, we can compute the coordinates of that point in reference frame $$B$$ denoted $${}^B \mathbf{p}$$.
@@ -19,7 +32,7 @@ This is called an *active transformation* and is realized by rotating our coordi
 
 In general, an active rotation $$\mathtt{A}$$ of a coordinate vector is realized by a rotation $$\mathtt{A}^{-1}$$ of the coordinate axes (referred to as a passive rotation).
 
-**Proof.** Consider the active rotation of a point $$\mathbf{p}$$ to a new point $$\mathbf{p}'$$ given by
+**Proof.** Consider the active rotation of a point $$\mathbf{p}$$ to onto new point $$\mathbf{p}'$$ (i.e., moving the hands of the clock without moving the base of the clock) given by
 
 $$
 \mathbf{p'} = \mathtt{A}\mathbf{p}
@@ -40,12 +53,11 @@ $$
 \mathbf{p} = \sum_{i=1}^n p_i \mathbf{e}_i = \sum_{i=1}^n p_i' \mathbf{e}'_i = \sum_{i=1}^n p_i' \mathtt{B} \mathbf{e}_i = \sum_{i=1}^n \mathtt{B} p_i' \mathbf{e}_i = \mathtt{B} \sum_{i=1}^n p_i' \mathbf{e}_i = \mathtt{B} \mathbf{p}'.
 $$
 
-Thus, $$\mathtt{B} = \mathtt{A}^{-1}$$ since $$\mathbf{p} = \mathtt{B}\mathbf{p}' = \mathtt{A}^{-1}\mathbf{p}'$$ from the active rotation above. $$\blacksquare$$
+Thus, $$\mathtt{B} = \mathtt{A}^{-1}$$ since $$\mathbf{p} = \mathtt{B}\mathbf{p}' = \mathtt{A}^{-1}\mathbf{p}'$$ from the active rotation above. A similar derivation for a change of basis can be found in an answer on Mathematics Stack Exchange.[^2] $$\blacksquare$$
 
-We can think of active transformations as mechanism for visualizing passive transformations.
-For example, the transformation between frame A and frame B can be visualized by rotating frame $$A$$ until aligned with frame $$B$$.
+The main point is that the transformation between frame A and frame B can be visualized by rotating frame $$A$$ until aligned with frame $$B$$.
 However, such a transformation is active not passive, and the difference is important.
 The rotation matrix that rotates a point from frame A to frame B (i.e., $${}^B\mathtt{R}_A$$) is not the same as rotating frame A onto frame B (i.e., $${}^A\mathtt{R}_B$$).
-This also applies to transformations that include both rotation and translation components.
 
 [^1]: [https://en.wikipedia.org/wiki/Active_and_passive_transformation](https://en.wikipedia.org/wiki/Active_and_passive_transformation)
+[^2]: [Rotating a point vs. rotating coordinate system, Mathematics Stack Exchange](https://math.stackexchange.com/questions/1110681/rotating-a-point-vs-rotating-coordinate-system)
